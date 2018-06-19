@@ -8,3 +8,6 @@
   display: none;
 }
 
+#wall .slick {
+  display:none;
+}
