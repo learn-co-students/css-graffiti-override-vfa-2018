@@ -1,4 +1,19 @@
-# CSS Graffiti Override Lab
+/* write your override styles here */
+
+
+#wall .tag-1{
+  display:none;
+}
+ #wall div#tag-2{
+  display:none;
+}
+
+#wall>.parent{
+  display:none;
+}
+#wall #tag-3.slick.wicked{
+  display:none;
+}# CSS Graffiti Override Lab
 
 ## Problem Statement
 
