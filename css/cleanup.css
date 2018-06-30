@@ -2,13 +2,13 @@
 #wall .tag-1 {
     display: none;}
     
-#tag-2 {
+.parent {
     display: none;}
   
-#tag-3 { 
+#wall .tag-1 + #tag-2 { 
     display: none;}
     
-#tag-4 {
+#wall #tag-3 .slick .wicked {
     display: none;}
     
 
