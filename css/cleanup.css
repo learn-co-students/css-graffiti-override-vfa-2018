@@ -1,1 +1,17 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+  display:none;
+}
+
+#wall #tag-2 .tag-1 + div{
+  display:none;
+}
+
+#wall .parent #tag-4 {
+  display:none;
+}
+
+
+/*I successfully got rid of 1 and 4; there are a total of 7.*/
+/*I have spent too long on this. I need to do Java. */
