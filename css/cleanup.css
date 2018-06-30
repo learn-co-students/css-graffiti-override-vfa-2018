@@ -1,1 +1,25 @@
-/* write your override styles here */
+
+#wall .tag-1{
+    display: none;
+}
+
+#wall .parent{
+    display:none;
+}
+
+#tag-2 {
+    opacity:0;
+}
+
+#tag-3 {
+    opacity: 0
+}
+
+#tag-5{
+    opacity:0;
+}
+
+#tag-6 {display:none;}
+
+
+  
